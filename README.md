@@ -1,3 +1,3 @@
 # DotNetAPIProject
 
-Creating a Project for .Net now, changing something
+Creating a Project for .Net now
